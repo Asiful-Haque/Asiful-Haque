@@ -87,32 +87,11 @@
 - ### Problem Solving Profiles:
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
 | :------------- | :-------------: |
-| <a href="https://codeforces.com/profile/__asiful_sourav__" target="_blank">
-    <span style="background:white; padding:3px; border-radius:5px; display:inline-block;">
-      <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="28" />
-    </span>
-  </a> | 300+ |
-| <a href="https://judge.beecrowd.com/en/profile/407767" target="_blank">
-    <span style="background:white; padding:3px; border-radius:5px; display:inline-block;">
-      <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="Beecrowd" height="28" />
-    </span>
-  </a> | 200+ |
-| <a href="https://leetcode.com/u/haqueasiful999/" target="_blank">
-    <span style="background:white; padding:3px; border-radius:5px; display:inline-block;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28" />
-    </span>
-  </a> | 60+ |
-| <a href="https://www.hackerrank.com/profile/haqueasiful999" target="_blank">
-    <span style="background:white; padding:3px; border-radius:5px; display:inline-block;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="28" />
-    </span>
-  </a> | 60+ |
-| <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank">
-    <span style="background:white; padding:3px; border-radius:5px; display:inline-block;">
-      <img src="https://stopstalk.com/static/media/stopstalk_logo.a65b9166.svg" alt="StopStalk" height="28" />
-    </span>
-  </a> | 100+ |
-
+| <a href="https://codeforces.com/profile/__asiful_sourav__" target="_blank"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="28"> </a> | 300+ |
+| <a href="https://judge.beecrowd.com/en/profile/407767" target="_blank"> <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="Beecrowd" height="28"> </a> | 200+ |
+| <a href="https://leetcode.com/u/haqueasiful999/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28"> </a> | 60+ |
+| <a href="https://www.hackerrank.com/profile/haqueasiful999" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="28"> </a> | 60+ |
+| <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://stopstalk.com/static/media/stopstalk_logo.a65b9166.svg" alt="StopStalk" height="28"> </a> | 100+ |
 
 
 
