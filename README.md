@@ -1,16 +1,99 @@
-## Hi there 👋
 
-<!--
-**Asiful-Haque/Asiful-Haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">Hi 👋, I'm Asiful Haque</h1>
+
+- Software Engineer from Dhaka, Bangladesh! <br/>
+- Chancellor's Gold Medalist - Daffodil International University. <br/>
+- World Finalist - NASA Space Apps Challenge 2023. <br/>
+- National Champion - NASA Space Apps Challenge 2022. <br/>
+- Champion - 3rd DIU Data Science Summit. <br/>
+- I also made my hand dirty with several Software Development projects. <br/>
+- I have solved 700+ coding problems on various online judges. <br/>
+- Currently, I am working at TwinForce Solutions Limited as Software Engineer. <br/>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Asiful-Haque&color=green)
+
+</div>
+
+
+
+
+## Tools & Technologies
+- ### Languages:
+| <p align="center">Worked With</p> | <p align="center">Core Expertise</p> | 
+| :------------- | :-------------: |
+| 	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+### Back-end Development:
+
+| <p align="center">Work With</p> |
+| :------------------------------: |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) |
+
+###  Front-end Development:
+
+| <p align="center">Work With</p> |
+| :------------------------------: |
+| ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-%231E293B?style=for-the-badge&logo=shadcn&logoColor=white) |
+
+
+###  Database:
+
+| <p align="center">Work With</p> |
+| :------------------------------: |
+| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+
+###  AI / ML & Computer Vision:
+
+| <p align="center">Work With</p> |
+| :------------------------------: |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3E8EDE?style=for-the-badge&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF5252?style=for-the-badge&logo=github&logoColor=white) |
+
+
+
+<!-- Tools & Technologies: -->
+<p>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50px" style="padding-right:10px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" style="padding-right:10px;" />
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50px" style="padding-right:10px;" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" style="padding-right:10px;" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" title="Redux">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50px" style="padding-right:10px;" />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" title="LaTeX">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50px" style="padding-right:10px;" />
+  </a>
+
+</p>
+<br style="clear:both;" />
+
+
+- ### Problem Solving Profiles:
+| <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
+| :------------- | :-------------: |
+| <a href="https://codeforces.com/profile/__asiful_sourav__" target="_blank"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="28"> </a> | 300+ |
+| <a href="https://judge.beecrowd.com/en/profile/407767" target="_blank"> <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="Beecrowd" height="28"> </a> | 200+ |
+| <a href="https://leetcode.com/u/haqueasiful999/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28"> </a> | 60+ |
+| <a href="https://www.hackerrank.com/profile/haqueasiful999" target="_blank"> <img src="https://hrcdn.net/fcore/assets/brand/brand-logo-green.svg" alt="HackerRank" height="28"> </a> | 60+ |
+| <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://www.stopstalk.com/static/media/stopstalk_logo.a65b9166.svg" alt="LightOJ/AtCoder/CodeChef/Timus via StopStalk" height="28"> </a> | 100+ |
+
+
+
+
+
+
+
