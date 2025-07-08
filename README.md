@@ -3,7 +3,9 @@
 
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Asiful Haque</h1>
 
