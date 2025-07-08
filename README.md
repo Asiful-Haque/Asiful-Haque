@@ -57,7 +57,7 @@
 
 
 
-<!-- Tools & Technologies: -->
+## Other Tools 
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50px" style="padding-right:10px;" />
@@ -66,7 +66,7 @@
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" style="padding-right:10px;" />
   </a>
   <a href="https://github.com/" target="_blank" title="GitHub">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50px" style="padding-right:10px;" />
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50px" style="padding-right:10px; background-color: white; border-radius: 6px;" />
   </a>
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" style="padding-right:10px;" />
@@ -77,9 +77,10 @@
   <a href="https://www.latex-project.org/" target="_blank" title="LaTeX">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50px" style="padding-right:10px;" />
   </a>
-
 </p>
+
 <br style="clear:both;" />
+
 
 - ### Problem Solving Profiles:
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
@@ -88,7 +89,8 @@
 | <a href="https://judge.beecrowd.com/en/profile/407767" target="_blank"> <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="Beecrowd" height="28"> </a> | 200+ |
 | <a href="https://leetcode.com/u/haqueasiful999/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28"> </a> | 60+ |
 | <a href="https://www.hackerrank.com/profile/haqueasiful999" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="28"> </a> | 60+ |
-| <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://raw.githubusercontent.com/stopstalk/stopstalk-deployment/master/web/static/images/ss-logo.png" alt="StopStalk" height="28"> </a> | 100+ |
+| <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://stopstalk.com/static/media/stopstalk_logo.a65b9166.svg" alt="StopStalk" height="28"> </a> | 100+ |
+
 
 
 
