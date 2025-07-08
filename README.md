@@ -56,7 +56,6 @@
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3E8EDE?style=for-the-badge&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF5252?style=for-the-badge&logo=github&logoColor=white) |
 
 
-
 ## Other Tools 
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
@@ -66,7 +65,11 @@
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" style="padding-right:10px;" />
   </a>
   <a href="https://github.com/" target="_blank" title="GitHub">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50px" style="padding-right:10px; background-color: white; border-radius: 6px;" />
+    <img align="left" 
+         src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1751964679/Screenshot_1_irnbf1.png" 
+         alt="GitHub" 
+         width="50px" 
+         style="padding-right:10px; background-color: white; border-radius: 6px;" />
   </a>
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50px" style="padding-right:10px;" />
@@ -75,16 +78,21 @@
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50px" style="padding-right:10px;" />
   </a>
   <a href="https://www.latex-project.org/" target="_blank" title="LaTeX">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50px" style="padding-right:10px;" />
+    <img align="left" 
+         src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1751964789/Screenshot_2_wy4ul4.png" 
+         alt="LaTeX" 
+         width="50px" 
+         style="padding-right:10px;" />
   </a>
 </p>
+
 
 <br style="clear:both;" />
 
 <br>
 
 
- ### Problem Solving Profiles:
+## Problem Solving Profiles:
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
 | :------------- | :-------------: |
 | <a href="https://codeforces.com/profile/__asiful_sourav__" target="_blank"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="28"> </a> | 300+ |
