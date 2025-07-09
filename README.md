@@ -31,7 +31,7 @@
 - World Finalist - NASA Space Apps Challenge 2023. <br/>
 - National Champion - NASA Space Apps Challenge 2022. <br/>
 - Champion - 3rd DIU Data Science Summit. <br/>
-- I also made my hand dirty with several Software Development projects. <br/>
+- I also made my hands dirty with several Software Development projects. <br/>
 - I have solved 700+ coding problems on various online judges. <br/>
 - Currently, I am working at TwinForce Solutions Limited as Software Engineer. <br/>
 
