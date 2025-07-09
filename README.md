@@ -41,7 +41,7 @@
 </div>
 
 
-
+<br><br>
 
 ## Tools & Technologies
 
@@ -73,7 +73,7 @@
 | :------------------------------: |
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3E8EDE?style=for-the-badge&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF5252?style=for-the-badge&logo=github&logoColor=white) |
 
-
+<br><br>
 ## Other Tools 
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
@@ -109,7 +109,7 @@
 
 <br>
 
-
+<br><br>
 ## Problem Solving Profiles:
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
 | :------------- | :-------------: |
@@ -120,7 +120,7 @@
 | <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1751964467/Screenshot_amvqz6.png" alt="StopStalk" height="28"> </a> | 100+ |
 
 
-
+<br><br>
 
 ### Github Overview:
 
@@ -128,7 +128,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asiful-Haque&theme=dark&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiful-Haque&theme=dark)](https://github.com/Asiful-Haque/github-readme-stats)
 
-
+<br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="MasterHead" />
