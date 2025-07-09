@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Asiful Haque</h1>
-
+<h2 align="center">Find me on</h2>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/asifiul.haque/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -35,9 +35,9 @@
 <br><br>
 
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 ![Profile views](https://komarev.com/ghpvc/?username=Asiful-Haque&color=green)
-
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
 
