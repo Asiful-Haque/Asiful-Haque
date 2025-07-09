@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Asiful Haque</h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="[https://www.facebook.com/your-username](https://www.facebook.com/asifiul.haque/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
