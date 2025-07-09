@@ -101,6 +101,10 @@
 | <a href="https://www.hackerrank.com/profile/haqueasiful999" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="28"> </a> | 60+ |
 | <a href="https://www.stopstalk.com/user/profile/Asiful" target="_blank"> <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1751964467/Screenshot_amvqz6.png" alt="StopStalk" height="28"> </a> | 100+ |
 
+### Github Overview:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiful-Haque&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asiful-Haque&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiful-Haque&theme=dark)](https://github.com/Asiful-Haque/github-readme-stats)
 
 
 
