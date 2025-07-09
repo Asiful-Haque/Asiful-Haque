@@ -32,7 +32,7 @@
 - I also made my hand dirty with several Software Development projects. <br/>
 - I have solved 700+ coding problems on various online judges. <br/>
 - Currently, I am working at TwinForce Solutions Limited as Software Engineer. <br/>
-<br><br>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" style="margin-right: 15px;" />
