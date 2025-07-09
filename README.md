@@ -35,20 +35,11 @@
 <br><br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-      </td>
-      <td align="center" style="padding: 0 20px;">
-        <img src="https://komarev.com/ghpvc/?username=Asiful-Haque&color=green" alt="Profile views"/>
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" style="margin-right: 15px;" />
+  <img src="https://komarev.com/ghpvc/?username=Asiful-Haque&color=green" alt="Profile views" style="margin: 0 15px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" style="margin-left: 15px;" />
 </div>
+
 
 <br>
 
