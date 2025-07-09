@@ -106,12 +106,7 @@
 
 ### Github Overview:
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiful-Haque&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiful-Haque&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asiful-Haque&theme=dark&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiful-Haque&theme=dark)](https://github.com/Asiful-Haque/github-readme-stats)
 
