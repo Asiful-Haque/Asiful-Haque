@@ -34,13 +34,21 @@
 - Currently, I am working at TwinForce Solutions Limited as Software Engineer. <br/>
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Asiful-Haque&color=green)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <img src="https://komarev.com/ghpvc/?username=Asiful-Haque&color=green" alt="Profile views"/>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+      </td>
+    </tr>
+  </table>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
 <br>
 
