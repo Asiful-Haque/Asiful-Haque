@@ -130,10 +130,26 @@
 
 <br><br>
 
-[<img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" alt="World Finalist - Asiful Haque Sourav" height="250px" />](https://www.linkedin.com/in/asiful-haque-sourav/details/certifications/1717576551539/single-media-viewer/?profileId=ACoAAC_ugWoBr4pWJoLU92ht_nIJgLkNc6VqT3Y)
-[<img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg" alt="Certificate 1" height="250px" />](https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg)
-[<img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg" alt="Certificate 2" height="250px" />](https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg)
-[<img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" alt="Certificate 3" height="250px" />](https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg)
+<h3 align="center">🎓 Certifications</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/asiful-haque-sourav/details/certifications/1717576551539/single-media-viewer/?profileId=ACoAAC_ugWoBr4pWJoLU92ht_nIJgLkNc6VqT3Y" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" alt="World Finalist" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg" alt="Certificate 1" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg" alt="Certificate 2" height="180px" style="margin: 10px;" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" alt="Certificate 3" height="180px" style="margin: 10px;" />
+  </a>
+</div>
+
 
 
 
