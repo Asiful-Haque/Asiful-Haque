@@ -133,7 +133,7 @@
 
 
 
-
+## Certifications:
 <div align="center">
    <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" target="_blank">
     <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" alt="Certificate 0" height="180px" style="margin: 10px;" />
@@ -150,6 +150,12 @@
 <div align="center">
   <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" target="_blank">
     <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" alt="Certificate 3" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208186/1719380917735_o554zh.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208186/1719380917735_o554zh.jpg" alt="Certificate 4" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208187/1719383717614_iz3pgc.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208187/1719383717614_iz3pgc.jpg" alt="Certificate 5" height="180px" style="margin: 10px;" />
   </a>
 </div>
 
