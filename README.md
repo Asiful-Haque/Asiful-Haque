@@ -159,12 +159,20 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719380957837_yxtxc3.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719380957837_yxtxc3.jpg" alt="Certificate 6" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719363355795_qbcfld.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719363355795_qbcfld.jpg" alt="Certificate 7" height="180px" style="margin: 10px;" />
+  </a>
+  <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719380522172_nykj9t.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752208547/1719380522172_nykj9t.jpg" alt="Certificate 8" height="180px" style="margin: 10px;" />
+  </a>
+</div>
 
 
 
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="MasterHead" />
-</p>
 
