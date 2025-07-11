@@ -130,28 +130,27 @@
 
 <br><br>
 
-<div align="center">
 
-  <!-- Certificate 1 -->
-  <a href="https://www.linkedin.com/in/asiful-haque-sourav/details/certifications/1717576551539/single-media-viewer/?profileId=ACoAAC_ugWoBr4pWJoLU92ht_nIJgLkNc6VqT3Y" target="_blank">
-    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" alt="World Finalist" height="180px" style="margin: 10px;" />
+
+
+
+<div align="center">
+   <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" target="_blank">
+    <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206596/1719374343700_dkyvsi.jpg" alt="Certificate 0" height="180px" style="margin: 10px;" />
   </a>
-   <p><strong>World Finalist - Asiful Haque Sourav</strong></p>
-  <!-- Certificate 2 -->
+
   <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg" target="_blank">
     <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206799/1719367366577_tb12ge.jpg" alt="Certificate 1" height="180px" style="margin: 10px;" />
   </a>
-
-  <!-- Certificate 3 -->
   <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg" target="_blank">
     <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206905/1719370507449_hgm1o1.jpg" alt="Certificate 2" height="180px" style="margin: 10px;" />
   </a>
+</div>
 
-  <!-- Certificate 4 -->
+<div align="center">
   <a href="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" target="_blank">
     <img src="https://res.cloudinary.com/ddrvm4qt3/image/upload/v1752206897/1719380908275_uqucjd.jpg" alt="Certificate 3" height="180px" style="margin: 10px;" />
   </a>
-
 </div>
 
 
